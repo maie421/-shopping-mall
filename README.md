@@ -1,6 +1,6 @@
 # 쇼핑몰 프로젝트
 <h2>※프로젝트 진행중</h2>
-<a href ="http://study421.dothome.co.kr/"><h3>쇼핑몰(바로가기)</h3></a>
+<h3><a href ="http://study421.dothome.co.kr/">쇼핑몰(바로가기)</a></h3>
 <h3>공헌한 내용</h3>
 <ul>
   <li>참여도: 100%</li>
