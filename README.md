@@ -1,4 +1,6 @@
 # 쇼핑몰 프로젝트
+<h1>※프로젝트 진행중</h1>
+<a href ="http://study421.dothome.co.kr/"><h3>쇼핑몰(바로가기)</h3></a>
 <h3>공헌한 내용</h3>
 <ul>
   <li>참여도: 100%</li>
@@ -7,3 +9,4 @@
   <li>결과를 얻어오기 위한 서버 액션: php</li>
   <li>개발 Tool : Eclips</li>
 </ul>
+
