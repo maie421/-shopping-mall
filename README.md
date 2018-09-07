@@ -10,16 +10,15 @@
   <li>개발 Tool : editplus</li>
 </ul>
 <h3>기능</h3>
+<h4>기본기능</h4>
 <ul>
-  <li>기본기능</li>
   <li>로그인</li>
   <li>회원가입</li>
   <li>게시판</li>
   <li>게시판</li>
   <li>관리자페이지</li>
 </ul>
-<h3></h3>
+<h4></h4>
 <ul>
-  <li>게시판</li>
   <li>비밀번호설정 가능</li>
 </ul>
