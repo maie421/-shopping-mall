@@ -1,0 +1,62 @@
+#slide{
+	background-color:#D4EDEA;
+	border:solid 1px #ddd;
+	width:750px;
+	height:300px;
+	margin:50px 0 0 20px;
+	float:left;
+}
+#event{
+	float:left;
+	width:100px;
+	margin:50px 0 0 20px;
+}
+#event button{
+	width:170px;
+	height:75px;
+	display:block;
+	background-color:white;
+	border:solid 1px #ddd;
+	font-size:17px;
+}
+#event a:link{
+	text-decoration:none;
+}
+.event01{
+	margin-left:5px;
+	color:#aaa;
+	font-weight:bold;
+}
+.event02{
+	border-top:solid 2px #000;
+	margin-top:5px;
+	padding-top:30px;
+	width:980px;
+}
+#coupon_page, #event_page, #gift_page{
+	margin-top:50px;
+}
+#event_box{
+	border:solid 1px #ddd;
+	width:170px;
+	display:inline-block;
+	height:220px;
+	margin:9px;
+	text-align:center;
+}
+#event_box img{
+	width:170px;
+	border-bottom:solid 1px #ddd;
+}
+#event_title{
+	margin:10px 0 20px 0;
+}
+#event_date{
+	font-size:12px;
+	color:#999;
+	margin-bottom:20px;
+}
+#ing{
+	font-size:14px;
+	color:#42628b;
+}

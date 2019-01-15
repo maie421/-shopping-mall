@@ -1,0 +1,52 @@
+#side_menu li{
+	list-style-type:none;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+#side_menu li :link{
+	color:black;
+	text-decoration:none;
+}
+#side_menu li :visited{
+	color:black;
+	text-decoration:none;
+}
+#side_menu li :hover{
+	color:#637BE5;
+	text-decoration:none;
+	font-weight:bold;
+}
+#side_menu ul{
+	padding:10px;
+}
+#side_menu{
+	border:solid 1px #747474;
+	width:170px;
+	font-size:14px;
+	margin-top:20px;
+	float:left;
+}
+#menu01{
+	background-color:#747474;
+	font-size:17px;
+	color:white;
+}
+.menu02{
+	border-bottom:solid 1px #c5d0d9;
+}
+#side_menu span{
+	color:#637BE5;
+	font-weight:bold;
+}
+#books{
+	margin-top:10px;
+	width:800px;
+	float:left;
+}
+#now{
+	width:25px;
+	height:25px;
+	background-color:#333;
+	border:solid 1px #333;
+	color:white;
+}

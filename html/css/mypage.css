@@ -1,0 +1,50 @@
+#email_select{
+	border:1px solid #a9a9a9;
+	width:63px;
+	margin:0 5px;
+}
+#member_email{
+	width:245px;
+}
+#point_text{
+	width:50px;
+	border:1px solid #d0d0d0;
+	margin-left:10px;
+	text-align:center;
+}
+#radio{
+	margin:0 10px;
+}
+select { 
+	appearance: none; 
+}
+.search_requirement,.requirement{
+	font-size: 15px;
+  color: #717171;
+	float:left;
+	padding:5px 0;
+}
+.search_requirement{
+	width:75px;
+	clear:both;
+	background-color:#f7f7f7;
+}
+.requirement{
+	margin-right:10px;
+}
+table{
+	clear:both;
+}
+#buy_book{
+	padding:5px 0px;
+	width:500px;
+	font-size:14px;
+	color:#717171;
+}
+#buy_name{
+	padding:5px 0px;
+	width:100px;
+	text-align:center;
+	font-size:14px;
+	color:#717171;
+}

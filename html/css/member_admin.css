@@ -1,0 +1,22 @@
+#new_notice {
+    padding: 10px 0px;
+	width:100px;
+}
+#notice, #new_notice {
+    font-size: 14px;
+    color: #717171;
+    text-align: center;
+}
+#member_email {
+    width: 300px;
+}
+.notice_title, #member_email {
+    font-size: 14px;
+    color: #717171;
+}
+#point_text {
+    width: 50px;
+    border: 1px solid #d0d0d0;
+    margin-left: 10px;
+    text-align: center;
+}

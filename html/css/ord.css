@@ -1,0 +1,82 @@
+#join_left {
+	color:#bdbcbc;
+	font-size:16px;
+	padding-top:8px;
+	float:right;
+}
+#join_box {
+	width:520px;
+	float:left;
+}
+#basic {
+	padding:40px 0 35px 0;
+	border-bottom:1px solid #717171;
+}
+#join_top_basket{
+	margin:0 auto;
+	padding:20px 0 10px 10px;
+clear:both;
+}
+#join_box_mini{
+	width:110px;
+	padding:20px 0 10px 0;
+	font-weight:bold;
+	font-size:15px;
+	float:left;
+	text-align:center;
+}
+#join_input{
+	border: 1px solid #d0d0d0;
+	height:20px;
+	padding:5px;
+	width:200px;
+}
+#join_box hr {
+	clear:both;
+	border: 1px solid #dbdbdb;
+}
+#email_input,#email_select, #address,#address_button,#address_input{
+	border: 1px solid #d0d0d0;
+	height:24px;
+	padding:5px;
+}
+
+#join_box_mini_a {
+	width:200px;
+    padding: 22px 0 115px 25px;
+}
+
+#address_button {
+    width: 120px;
+    height: 37px;
+    color: #4f4f4f;
+	 background-color: #fafafa;
+}
+#join_box_mini_1 {
+    float: left;
+    padding: 13px;
+    width: 569px;
+}
+#ord_title{
+	font-size:21px;
+	color: #111;
+    font-weight: bold;
+    float: left;
+}
+#ord_box_mini{
+	float: left;
+}
+#OrdBox {
+    width: 430px;
+    height: 320px;
+    padding:5px;
+    margin: 30px 23px;
+    float: left;
+    border: 1px solid #c9c9c9;
+}
+#join_main_top_basket {
+    width: 980px;
+    margin: 0 auto;
+    padding: 40px 0;
+    clear: both;
+}

@@ -1,0 +1,42 @@
+#books h2{
+	padding-bottom:10px;
+	color:#8fa4bf;
+}
+#new_title{
+	color:#42628b;
+}
+#new{
+	text-align:center;
+	width:780px;
+	border-top:solid 2px #42628b;
+}
+#new_box{
+	display:inline-block;
+	width:155px;
+	padding:15px;
+	text-align:center;
+}
+#new_book{
+	width:120px;
+}
+#new_box h5{
+	font-size:15px;
+	margin:10px 0 10px 0;
+}
+#domestic{
+	margin-top:50px;
+}
+#domestic_new{
+	border-top:solid 2px #42628b;
+}
+#head li{
+	display:inline-block;
+}
+#add a:link{
+	color:#999;
+	text-decoration:none;
+	margin-left:610px;
+}
+#add01{
+	font-size:12px;
+}

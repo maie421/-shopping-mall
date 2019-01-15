@@ -1,0 +1,59 @@
+#title,#title_textarea{
+	background-color:#f9f9f9;
+	width:170px;
+	font-weight:normal;
+	font-size:14px;
+	float:left;
+}
+#title{
+	padding:15px 0 15px 25px;
+}
+#title_textarea{
+	padding:15px 0 155px 25px;
+}
+#write_input{
+	border: 1px solid #d0d0d0;
+	height:20px;
+	padding:2px;
+	width:250px;
+}
+#write_text_box{
+	float:left;
+	padding:10px;
+	width:569px;
+}
+#write_box hr{
+	clear:both;
+	border: 1px solid #dbdbdb;
+}
+#write_box{
+	width:790px;
+	margin:0 auto;
+}
+#write_textarea{
+	border: 1px solid #d0d0d0;
+	overflow:hidden;
+	font-size:14px;
+	line-height: normal;
+}
+#write_button{
+	width:100px;
+	padding:9px 0;
+	font-weight:bold;
+	margin-bottom:85px;
+}
+#write_button{
+	margin-left:13px;
+	background-color:white;
+	color:#666666;
+	border:1px solid #a3a3a3;
+}
+#write_button:hover{
+	color:white;
+	border:1px solid #6b6b6b;
+	cursor:pointer;
+}
+#write_button_box{
+	text-align:center;
+	margin:20px 0 0px 0;
+}

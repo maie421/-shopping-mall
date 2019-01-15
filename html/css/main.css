@@ -1,0 +1,161 @@
+#back-color{
+	width:100%;
+	background-color:#e3f2d3;/*녹색*/
+	height:385px;
+}
+#story{
+	width:980px;
+	margin:0 auto;
+	text-align:center;
+}
+#menu_bar{
+	margin-bottom:20px;
+}
+#menu_bar ul li{
+	display:inline;
+	padding:8px 80px;
+	background-color:white;
+    border: 1px solid #d7d7d7;
+	font-size:13px;
+}
+#menu_bar ul li:hover{
+	background-color: #5e6b9e;
+	border: 1px solid #5e6b9e;
+  color: #fff;
+}
+#good_menu ul li{
+	display:inline;
+	margin:0 20px;
+}
+#good_menu{
+	font-size:14px;
+	color:#555555;
+	font-weight:700;
+	margin-top:45px;
+	
+}
+#good_title{
+  font-size: 16px;
+  height: 35px;
+  color: #000;
+  font-family: 'Malgun Gothic','Apple SD Neo Gothic','Dotum','Sans-Serif';
+}
+#good_box{
+	margin:20px 0 40px 20px;
+	float:left;
+	padding:23px 45px 35px 45px;
+	border:1px solid #dadada;
+	width:auto;
+	height:240px;
+	text-align:center;
+	font-size:12px;
+}
+#good_box:hover{
+	border:1px solid #6a84a6;
+}
+#main_good_size{
+	width: 126px;
+	height:185px;
+}
+#good_menu_1{
+	color:#3e74ab;
+	margin:10px 0;
+}
+#back-color_blue{
+	width:100%;
+	height:440px;
+	clear:both;
+	padding-top:1px;
+	background-color:#e5ecf1;
+}
+#back_white{
+	margin-left:15px;
+	margin-top:20px;
+	padding:30px 0px 30px 50px;
+	background-color:white;
+	height:235px;
+}
+#migration_img_size{
+	width:110px;
+	height:160px;
+}
+#migration_back{
+	margin:20px 0px;
+	background-color:#f9f9f9;
+	padding:25px;
+	width:110px;
+}
+#migration{
+	font-size:12px;
+	text-align:center;
+	width:150px;
+	margin:	10px 0 40px 38px;
+	float:left;
+}
+#main_gray{
+	border-top:1px solid #dadada;
+	border-bottom:1px solid #dadada;
+	width:100%;
+	height: 128px;
+	background-color:#f9f9f9;
+}
+#advertising,#advertising_right{
+	width: 322px;
+    height: 126px;
+	float:left;
+	border-right:1px solid #dadada;
+}
+#advertising_right,#advertising__mini_right{
+	border:none;
+}
+#advertising_mini,#advertising__mini_right{
+	width: 320px;
+    height: 54px;
+	border-right:1px solid #dadada;
+}
+.main_white{
+	border-bottom:1px solid #dadada;
+}
+#main_good_top{
+	width: 130px;
+    height: 184px;
+	margin-bottom:3px;
+	border: 1px solid #a9a9a9;
+}
+#best_number{
+	width: 130px;
+}
+#best_number_side{
+	width: 105px;
+}
+#best_number_side,#best_number{
+	font-size:10px;
+	float:left;
+	margin-right:70px;
+	text-align:center;
+}
+#main_good_side{    
+	width: 105px;
+    height: 150px;
+    border: 1px solid #a9a9a9;
+}
+
+.number{
+	font-size:16px;
+	color:#ababab;
+	font-weight:bold;
+	margin-bottom:5px;
+    left:28px;
+    top:20px;
+    text-align:left;
+}
+#good_sid_menu{
+	padding:5px;
+}
+#good_sid_menu:hover{
+	color: #fff;
+  background-color: #9cafe9;
+}
+#numberboxoversea{
+	display:none;
+}

@@ -1,0 +1,67 @@
+#info{
+	width:780px;
+	margin-left:190px;
+}
+.info,.info01{
+	display:inline-block;
+	width:780px;
+	height:230px;
+	margin-top:22px;
+	margin-left:20px;
+}
+.info01{
+	margin:0 22px 0 22px;
+}
+#examtop{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#exam{
+	margin-left: 193px;
+}
+#top{
+	margin-top:30px;
+}
+#book01{
+	width:255px;
+	padding:0 0 30px 0;
+	text-align:center;
+	display:inline-block;
+
+}
+#book01 h5{
+	font-size:15px;
+	height:40px;
+	margin:10px 0 0 0;
+}
+#book_img{
+	border:solid 1px #CECECE;
+	margin-top:30px;
+	width:150px;
+	height:200px;
+}
+#book_money{
+	margin-bottom:5px;
+	font-size:15px;
+}
+#book_point{
+	font-size:14px;
+	margin-left:5px;
+	color:#666;
+}
+#book_point_icon{
+	width:15px;
+	vertical-align:bottom;
+}
+#book01 a:link{
+	color:black;
+	text-decoration:none;
+}
+#book01 a:hover{
+	color:black;
+	text-decoration:none;
+}
+#book01 a:visited{
+	color:black;
+	text-decoration:none;
+}

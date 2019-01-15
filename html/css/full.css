@@ -1,0 +1,260 @@
+*{
+	padding:0px;
+	margin:0px;
+	font-family:"나눔고딕";
+}
+input:focus { 
+  outline: none; 
+} 
+ul{
+	list-style-type:none;
+}
+#login_menu{
+	width:100%;
+	background-color:#f8f8f8;
+
+}
+#login_menu #login_menu_1 ul li{
+	display:inline;
+}
+#login_menu #login_menu_1 ul{
+	background-color:#f8f8f8;
+	width:910px;
+	margin:0 auto;
+	text-align:right;
+	color:#5D5D5D;
+	font-size:12px;
+}
+#banner_img{
+	margin-bottom:30px;
+}
+#login_menu #login_menu_1{
+	padding:10px 0;
+	border-bottom:1px solid #e3e3e3;
+	background-color:#f8f8f8;
+}
+#login_menu #login_menu_1 ul li a{
+	padding:0 25px;
+	color:#5D5D5D;
+	font-size:12px;
+	text-decoration:none;
+}
+#login_menu #login_menu_1 ul li a:hover{
+	text-decoration:underline;
+	color:black;
+}
+#top_basket{
+		
+	margin-bottom:-2px;
+}
+#top_logo_back{
+	width:970px;
+	margin:0 auto;
+	
+}
+#top_logo{
+	width:200px;
+	margin:13px 0;
+	float:left;
+	
+}
+#top_logo1{
+	background-color:#6A84A6;
+	
+}
+#center_menu{
+	background-color:#6A84A6;
+	clear:both;
+}
+#center_menu #center_menu_1{
+	background-color:#6A84A6;
+	padding:12px 0;
+	color:white;
+	font-size:12px;
+	text-decoration:none;
+	width:700px;
+	margin:0 auto;
+	
+}
+#relative{
+width:1000px;
+margin:0 auto;
+position: relative;
+}
+
+#center_menu #center_menu_1 ul li{
+	display:inline;
+	text-align:center;
+	margin:0 28px;
+}
+#center_menu #center_menu_1 ul li a{
+	color:white;
+	text-decoration:none;
+	font-size:16px;
+}
+#center_menu #center_menu_1 ul li a:hover{
+	text-decoration:underline;
+}
+#center_menu_1 #contents{
+	float:left;
+}
+#contents_img{
+	float:left;
+	margin:-10px 25px 0px 0;
+	height:40px;
+}
+#find{
+	float:left;
+	border:solid 1px #6A84A6;
+	margin:40px 0 0 80px;
+	background: #fafafa;
+}
+#find_select{
+	width:80px;
+	border:none;
+	font-weight: bold;
+    color: #555;
+    font-size: 12px;
+	padding:13px 0;
+	margin:0 3px;
+	float:left;
+	background: #fafafa;
+	
+}
+#find_text{
+    float: left;
+    width: 293px;
+    height: 30px;
+	border:none;
+	padding:6px 0 5px 5px;
+    background: #fafafa;
+		
+}
+#find_img{
+	height: 43px;
+	margin-bottom:-5px;
+	
+}
+#main{
+	width:980px;
+	margin:0 auto;
+}
+/*페이지 버튼*/
+#page_num{
+	text-align:center;
+	margin:40px;
+	margin-left:170px;
+}
+.page_btn{
+	width:25px;
+	height:25px;
+	background-color:#eee;
+	border:solid 1px #eee;
+	margin:0 5px 0 5px;
+}
+a:link .page_btn {
+	color:#555;
+	text-decoration:none;
+}
+a:visited .page_btn{
+	color:#555;
+	text-decoration:none;
+}
+a:hover .page_btn {
+	color:white;
+	background-color:#6a84a6;
+	border:solid 1px #6a84a6;
+	text-decoration:none;
+}
+#now{
+	width:25px;
+	height:25px;
+	background-color:#42628b;
+	border:solid 1px #42628b;
+	color:white;
+	vertical-align:bottom;
+	font-weight:bold;
+}
+/*사이드 메인 메뉴*/
+#SideMainMenue ul li,#SideMainMenue_1 ul li{
+	border:1px solid #4c6a91;
+	border-top:none;
+	width:140px;
+	padding:10px 0;
+	background-color:white;
+}
+#SideMainMenue ul li:hover,#SideMainMenue_1 ul li:hover{
+	background-color:#42628b;
+	color:white;
+}
+#SideMainMenue ul a,#SideMainMenue_1 ul a{
+	color:black;
+	text-decoration:none;
+}
+#SideMainMenue{	
+	position:absolute;
+	left:28px;
+	display:none;
+	
+}
+#SideMainMenue_1{
+	position:absolute;
+	border-right:none;
+	left:170px;
+}
+/*푸터*/
+#footer {
+	width:100%;
+	height:100px;
+	clear:both;
+	float:left;
+	margin-top:30px;
+	display:block;
+	background-color:#f5f5f5;
+}
+#footer_top{
+	width:100%;
+	background-color:#8b8b8b;
+}
+#footer_section {
+    padding-bottom: 260px;
+}
+#footer_width, #footer_section {
+    width: 950px;
+    margin: 0px auto;
+}
+#footer_section_color{
+	background-color:#f5f5f5;
+}
+#copy_left {
+    width: 270px;
+    float: left;
+    border-right: 1px solid #dedede;
+    margin: 45px 30px 0px 0px;
+}
+.copy_left_info{
+	margin-top:10px;
+	font-size: 12px;
+    color: #777;
+}
+.copy_left_info, #copy_right {
+    margin-top: 16px;
+    font-size: 12px;
+    line-height: 17px;
+}
+.copy_right_info {
+    margin-top: 10px;
+}
+#copy_right {
+    padding-top: 20px;
+    width: 500px;
+    float: left;
+}
+#footer_width ul li{
+	display:inline;
+	line-height: 51px;
+	padding:0 5px;
+    font-size: 13px;
+    color:white;
+}
+

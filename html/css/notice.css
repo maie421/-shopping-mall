@@ -1,0 +1,156 @@
+#center_line{
+	width:30px;
+	margin:10px 0 14px 0;
+	border-top:1px solid #242424;
+}
+h2{
+	font-weight:900;
+}
+h5{
+	margin-top:50px;
+}
+h3{
+	font-weight:bolder;
+}
+#time{
+	margin-top:16px;
+	font-size:12px;
+	line-height:17px;
+	color:#959595;
+}
+#notice_main{
+	float:left;
+}
+#notice_main_title{
+	font-size:18px;
+	font-weight:bold;
+	margin:25px 0 15px 0;
+}
+table,th,td{
+	border-collapse: collapse;
+}
+th{
+	background-color:#f7f7f7;
+	border-top:1px solid #717171;
+	border-bottom:1px solid #dbdbdb;
+}
+td{
+	border-bottom:1px solid #dbdbdb;
+}
+td a{
+	color:#717171;
+	text-decoration:none;
+}
+td a:hover{
+	text-decoration:underline;
+}
+.notice{
+	width:85px;
+	padding:10px 0px;
+	font-size:14px;
+	color:#717171;
+	text-align:center;
+}
+.notice_title{
+	width:693px;
+	font-size:14px;
+	color:#717171;
+}
+.number_page_center{
+	width:750px;
+	margin-top:20px;
+	text-align:center;
+}
+.number_page_center ul li{
+	padding:5px;
+	display:inline;
+}
+.number_page_center ul li a{
+	color:#717171;
+	text-decoration:none;
+}
+#number_page{
+	margin:0 auto;
+	margin-top:20px;
+	width:25px;
+	height:22px;
+	text-align:center;
+	padding-top:3px;
+}
+#search{
+	width:780px;
+	margin-top:37px;
+	background-color:#f7f7f7;
+	border-top:1px solid #e8e8e8;
+	border-bottom:1px solid #e8e8e8;
+	padding:10px 0;
+	text-align:center;
+}
+#search_select,#search_text{
+	padding:5px;
+	border:1px solid #d0d0d0;
+}
+#search_text{
+	width:280px;
+}
+#search_button,.write_button{
+	background-color:#979797;
+	color:white;
+	border:none;
+	padding:6px 10px;
+}
+.write_button{
+	float:right;
+	margin:70px 22px 0 0;
+	font-size:12px;
+}
+#search_button:hover,.write_button:hover{
+	background-color:#626262;
+	cursor:pointer;
+}
+#notice_main{
+	float:left;
+	width:780px;
+	margin-left:25px;
+}
+#deduction {
+    padding: 2px;
+    margin: 5px 0px;
+    background-color: #6a84a6;
+    color: white;
+    width: 47px;
+    font-size: 11px;
+}
+#basket_img {
+    margin: 10px 10px 10px 20px;;
+    width: 72px;
+    border: 1px solid #a7a7a7;
+    float: left;
+}
+#basket_img_name {
+    float: left;
+    margin: 10px 5px;
+}
+#email_select{
+	margin-bottom:15px;
+}
+#p{
+	height:20px;
+	width:20px;
+	margin:0px 0 -3px 5px;
+}
+#answer{
+	display:none;
+	height:100px;
+	text-align:center;
+	padding-top:10px;
+	color: #717171;
+	font-size:15px;
+	border-bottom:1px solid #dbdbdb;
+}
+#page_num01{
+	height:30px;
+	width:780px;
+	text-align:center;
+	margin:40px 0 50px 0;
+}
