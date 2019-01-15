@@ -8,7 +8,6 @@
   <li>관리자 페이지 디자인</li>
   <li>검색 결과 데이터 요청 및 출력:</li>
   <li>웹 화면 구성: HTML, CSS ,javascript</li>
-  <li>서버: php</li>
   <li>개발 Tool : editplus</li>
 </ul>
 
