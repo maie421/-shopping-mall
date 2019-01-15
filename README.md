@@ -1,35 +1,14 @@
 # 쇼핑몰 프로젝트
 <h2>※프로젝트 진행중</h2>
-<h3><a href ="http://study421.dothome.co.kr/">쇼핑몰(바로가기)</a></h3>
+<h3><a href ="http://dawnbookstore.dothome.co.kr/">쇼핑몰(바로가기)</a></h3>
 <h3>공헌한 내용</h3>
 <ul>
-  <li>참여도: 개인프로젝트</li>
+  <li>참여도: 팀프로젝트</li>
+  <li>메인 목차,메뉴제외 디자인</li>
+  <li>관리자 페이지 디자인</li>
   <li>검색 결과 데이터 요청 및 출력:</li>
   <li>웹 화면 구성: HTML, CSS ,javascript</li>
-  <li>결과를 얻어오기 위한 서버 액션: php</li>
+  <li>서버: php</li>
   <li>개발 Tool : editplus</li>
 </ul>
-<h3>기능</h3>
-<h4>기본기능</h4>
-<ul>
-  <li>로그인</li>
-  <li>회원가입</li>
-  <li>마이페이지</li>
-  <li>게시판</li>
-  <li>메뉴</li>
-  <li>장바구니</li>
-  <li>관리자페이지</li>
-</ul>
-<h4>장바구니</h4>
-<ul>
-  <li>회원 가입 장바구니</li>
-</ul>
-그냥 기록
-할꺼 
-1:1게시판
-메뉴 php로 불러와서 설정 
-마이페이지
-회원가입 이용약관
-관리자 페이지
-회원관리
-방문일수
+
