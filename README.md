@@ -1,4 +1,4 @@
-# 쇼핑몰 프로젝트
+# 서점쇼핑몰 프로젝트
 <h2>※프로젝트 진행중</h2>
 <h3><a href ="http://dawnbookstore.dothome.co.kr/">쇼핑몰(바로가기)</a></h3>
 <h3>공헌한 내용</h3>
